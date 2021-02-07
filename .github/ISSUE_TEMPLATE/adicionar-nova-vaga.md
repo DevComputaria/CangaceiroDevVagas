@@ -7,7 +7,7 @@ title: "[Cidade] Front-end Developer na Nome da Empresa"
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, POSTE QUALQUER TIPO DE VAGA!
 
 Não faça distinção de gênero no título da vaga.
 
