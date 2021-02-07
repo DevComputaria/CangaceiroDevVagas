@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/DevComputaria/CangaceiroDevVagas/blob/main/data/CangaceiroDev.gif?raw=true" width="400" alt="Front-end Brasil">
+<img src="https://github.com/DevComputaria/CangaceiroDevVagas/blob/main/data/DevComputariaVagas.gif?raw=true" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:loud_sound: Vagas de TI para CangaceirosDev compartilhadas pelo DevComputaria 
