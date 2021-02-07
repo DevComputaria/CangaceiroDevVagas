@@ -1,18 +1,15 @@
-# CangaceiroDevVagas
-:loud_sound: Vagas de TI para CangaceirosDev compartilhadas pelo DevComputaria 
-
-
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/main/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://github.com/DevComputaria/CangaceiroDevVagas/blob/main/data/CangaceiroDev.gif?raw=true" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
+<p align="center">:loud_sound: Vagas de TI para CangaceirosDev compartilhadas pelo DevComputaria 
+</p>
 
-# Vagas (Somente vagas de Front-End)
+# Vagas (Qualquer vaga de TI)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Vagas disponíveis em https://github.com/DevComputaria/CangaceiroDevVagas/issues
 
 ### Cadastrando uma vaga
 
@@ -35,11 +32,11 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 ### Outros repositórios de vagas
 
-Como esse repositório é específico para a postagem de vagas de **front-end**,
-mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
-da comunidade forkaram esse repositório e criaram outras listas específicas
+Esse repositório não é específico para um único tipo devagas de **TI**,
+mas mesmo assim existem vagas para muitas outras áreas nesse mercado sendo compartilhadas por outras comunidades, algumas pessoas
+da comunidade forkaram o repositório do FrontEndBR e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
-listas onde você poderá postar sua vaga:
+listas onde você poderá postar sua vaga também:
 
 #### Por área
 
