@@ -7,9 +7,11 @@
 
 # Vagas (Qualquer vaga de TI)
 
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github. O canto arretado para todo **ANAPRODEGUA** procurar uma oprtunidade de trabalho porreta!!
 
 Vagas disponíveis em https://github.com/DevComputaria/CangaceiroDevVagas/issues
+
+**OBS:** ANAPRODEGUA = ANALISTA + PROGRAMADOR + FI DUMA ÉGUA 
 
 ### Cadastrando uma vaga
 
